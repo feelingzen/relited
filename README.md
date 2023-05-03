@@ -10,7 +10,7 @@ I'm Lite (relited) and I'm learning to code using a free course called The Odin 
 
 ### Stack 💻
 
-I'm fairly knowledgable in HTML and CSS and I'm a beginner in JavaScript. In the future I hope to expand this stack and create many great things.
+I'm fairly proficient in HTML and CSS and I'm a beginner in JavaScript. In the future I hope to expand this stack and create many great things.
 
 ### Why❓
 
