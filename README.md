@@ -6,7 +6,7 @@ I display all my projects right here for you to see!
 
 ### About 📝 
 
-I'm Lite (relited) and I'm learning to code using a free course called The Odin Project https://theodinproject.com. I've been interested in learning to code for quite a while, I've tried languages such as Lua and Python but I wasn't really interested in them. A few months after I discovered web development and completely fell in love.
+I'm Lite (relited) and I'm learning to code using a free course called The Odin Project https://theodinproject.com. I've been interested in learning to code for quite a while, I've tried languages such as Lua and Python but I wasn't really interested in them. A few months after attempting to learn those languages I discovered web development and completely fell in love.
 
 ### Stack 💻
 
