@@ -14,4 +14,4 @@ I'm fairly proficient in HTML and CSS and I'm a beginner in JavaScript. In the f
 
 ### Why❓
 
-I'd like to become a fullstack developer and create a website that has an active userbase. Im also very interested in web development and I find learning new things and creating new things to be very fun.
+I'd like to become a fullstack developer and be able to create an income from my skills, I'd also like to build a website with an active userbase as I think it would be really cool to control something of that size.
