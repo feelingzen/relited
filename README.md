@@ -12,6 +12,8 @@ I'm Lite (relited) and I'm learning to code using a free course called The Odin 
 
 I'm proficient in HTML, CSS and Javascript.
 
+I'm currently learning ReactJS!
+
 ### Why❓
 
 I'd like to become a fullstack developer and be able to create an income from my skills, I'd also like to build a website with an active userbase as I think it would be really cool to control something of that size.
